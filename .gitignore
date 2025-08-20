@@ -11,13 +11,14 @@ venv.bak/
 .env.development.local
 .env.test.local
 .env.production.local
-
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+*.gitignore
+*.gitattributes
 
 # Python
 __pycache__/
